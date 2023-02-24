@@ -4,4 +4,3 @@
 - 🌱 Atualmente me dedico a aprender React.
 - 📫 Caso tenha uma proposta de trabalho contate-me: emersonturimcarvalho@gmail
 - 😄 Pronouns: ele / dele
-- https://github-readme-stats.vercel.app/api/top-langs/?emersonturimcarvalho)(https://github.com/emersonturimcarvalho/github-readme-stats)
