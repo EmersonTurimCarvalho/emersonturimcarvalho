@@ -1,4 +1,4 @@
-### Olá... 👋
+### Olá... meu nome é Emerson Turim Carvalho... 👋
 
 - 🔭 Estou buscando conhecimento e pretendo trabalhar com Front-end.
 - 🌱 Atualmente me dedico a aprender React.
